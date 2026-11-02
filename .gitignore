@@ -1,0 +1,8 @@
+.env
+**/node_modules/
+**/dist/
+**/target/
+**/.idea/
+**/.DS_Store
+**/private-generated-forms/
+*.log
